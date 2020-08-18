@@ -9,7 +9,7 @@ Flexbog
 <h3 align="center">  
   <a href="#information_source-about">About</a> | 
    <a href="#page_facing_up-flexbog">Flexbog</a> |
-  <a href="#desktop_computer-technologies">Technologies</a>
+  <a href="#desktop_computer-technologies">Technologies</a> |
   <a href="#page_facing_up-certificate">Certificate</a>
 </h3>
 
