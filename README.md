@@ -15,14 +15,14 @@ Flexbog
 
 
 ## :information_source: About
-Flexbog is a website made during CSS Flexbox course, by <a href="https://www.origamid.com/">Origamid.</a> It has a responsive layout, made using only Flexbox properties.
+Flexbog is a website made during CSS Flexbox course, by <a href="https://www.origamid.com/" target="_blank">Origamid.</a> It has a responsive layout, made using only Flexbox properties.
 
 Link to the course: 
 <ul>
-  <li><a href="https://www.origamid.com/curso/css-flexbox/">CSS Flexbox</a></li>
+  <li><a href="https://www.origamid.com/curso/css-flexbox/"  target="_blank">CSS Flexbox</a></li>
 </ul>
 
-You can check the website fully working <a href="https://carvalhox.github.io/flexbox-origamid/">here.</a>
+You can check the website fully working <a href="https://carvalhox.github.io/flexbox-origamid/"  target="_blank">here.</a>
 
 ## :page_facing_up: Flexbog
 
