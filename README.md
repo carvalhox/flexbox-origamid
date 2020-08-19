@@ -22,6 +22,8 @@ Link to the course:
   <li><a href="https://www.origamid.com/curso/css-flexbox/">CSS Flexbox</a></li>
 </ul>
 
+You can check the website fully working <a href="https://carvalhox.github.io/flexbox-origamid/">here.</a>
+
 ## :page_facing_up: Flexbog
 
 ![Flexbog-gif](https://user-images.githubusercontent.com/34722707/90570319-d180ca80-e185-11ea-90b5-e0f21d22269d.gif)
