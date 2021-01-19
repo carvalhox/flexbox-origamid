@@ -7,10 +7,10 @@ Flexbog
 </p>
 
 <h3 align="center">  
-  <a href="#information_source-about">About</a> | 
-   <a href="#page_facing_up-flexbog">Flexbog</a> |
-  <a href="#desktop_computer-technologies">Technologies</a> |
-  <a href="#page_facing_up-certificate">Certificate</a>
+    <a href="#information_source-about">About</a> | 
+    <a href="#page_facing_up-flexbog">Flexbog</a> |
+    <a href="#link-live-version">Live Version</a> |
+    <a href="#desktop_computer-technologies">Technologies</a>
 </h3>
 
 
@@ -22,11 +22,15 @@ Link to the course:
   <li><a href="https://www.origamid.com/curso/css-flexbox/">CSS Flexbox</a></li>
 </ul>
 
-You can check the website fully working <a href="https://carvalhox.github.io/flexbox-origamid/">here.</a>
-
 ## :page_facing_up: Flexbog
 
 ![Flexbog-gif](https://user-images.githubusercontent.com/34722707/90570319-d180ca80-e185-11ea-90b5-e0f21d22269d.gif)
+
+
+## :link: Live Version
+
+
+You can check the website fully working <a href="https://flexbog-origamid.netlify.app/">here.</a>
 
 ## :desktop_computer: Technologies
 <ul>
@@ -34,5 +38,3 @@ You can check the website fully working <a href="https://carvalhox.github.io/fle
   <li>CSS</li>
 </ul>
 
-## :page_facing_up: Certificate
-![CSS Flexbox - Origamid_page-0001](https://user-images.githubusercontent.com/34722707/90569591-887c4680-e184-11ea-9d0c-1b57be86490e.jpg)
